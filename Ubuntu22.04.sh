@@ -1,4 +1,7 @@
-# Clone the repository
+#!/bin/bash
+
+
+# Clone The Repository 
 git clone https://github.com/hopingboyz/ubuntu22.04
 cd ubuntu22.04
 
